@@ -5,3 +5,5 @@ Un estudiante de Colombia de 22 años.
 Vivo en Bucaramanga y me gustan los deportes.
 
 El día de hoy hablaremos de la historia de este personaje.
+
+Le gusta la programación y recientemente finalizó la carrera universitaria
