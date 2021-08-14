@@ -5,3 +5,4 @@
 * Creado por el increible mundo de Platzi
 * Incluye ejemplos en Windows, Linux y Mac
 * Disponible para todas las edades
+* No tiene costo, aprovecha las oportunidades.
